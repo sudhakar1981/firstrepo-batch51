@@ -4,7 +4,7 @@ test for tracked file
 
 test for revert change
 
-this change for TESTING diff command
+this change for checking diff command
 
 this change for release-1.0
 
