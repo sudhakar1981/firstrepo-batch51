@@ -4,11 +4,6 @@ test for tracked file
 
 test for revert change
 
-<<<<<<< HEAD
 this change for checking diff command
 
-this change for release-1.0
-
-=======
 this change for release-2.0
->>>>>>> release-1.0
